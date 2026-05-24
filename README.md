@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=140&section=header&text=fabrice%40github%3A~%24&fontColor=00FF41&fontSize=28&fontAlignY=55&animation=fadeIn&desc=Senior%20Backend%20Engineer%20%7C%2017%2B%20years&descAlignY=80&descSize=14&descColor=00CC33" width="100%"/>
+<div align="center">
+  <img src="matrix.svg" width="100%" alt="matrix rain"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=500&lines=Initializing+profile...;Loading+skills...;cat+%2Fetc%2Ffabrice.conf;All+systems+operational+%E2%9C%94" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=a8e6a3&background=00000000&center=true&vCenter=true&multiline=false&width=500&lines=Initializing+profile...;Loading+skills...;cat+%2Fetc%2Ffabrice.conf;All+systems+operational+%E2%9C%94" alt="Typing animation"/>
 </div>
 
 ---
